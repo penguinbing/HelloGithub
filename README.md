@@ -5,6 +5,4 @@ Hope I'll get it as soon as possible.
 Let's see.
 
 Add new branch to my HelloGithub. Let's what will happen.
-ie
-
 
